@@ -1,0 +1,15 @@
+# 빌드 결과물
+build/
+xiao_ball_eye/build/
+
+# 개인 백업 (공장 펌웨어 바이너리, 보드에 있던 이전 코드)
+backup/
+
+# Seeed 위키 사본 (README 의 원문 링크 참고)
+ESP32
+
+# Python / 모델
+__pycache__/
+*.pyc
+*.pt
+*.onnx
